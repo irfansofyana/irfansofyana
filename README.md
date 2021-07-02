@@ -2,9 +2,9 @@
 
 😎 My name is Irfan Sofyana Putra. People often called me Irfan
 
-🌱 Currently, I'm studying at Bandung Institute of Technology majoring Informatics Engineering
+🌱 Currently, I'm working at Xendit
 
-😍 Now, I've interests on studying and exploring Web Development and also a fan of Data (Science & Engineering)
+😍 I'm interested in data engineering and backend web development
 
 📫 You can reach me on my email: irfansofyana0305@gmail.com
 
