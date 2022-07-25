@@ -2,9 +2,7 @@
 
 😎 My name is Irfan Sofyana Putra. People often called me Irfan
 
-🌱 Currently, I'm working at Xendit
-
-😍 Currenly interested in data engineering and backend web development
+🌱 Currently, I'm working at Xendit as a software engineer
 
 📫 You can reach me on my email: irfansofyana0305@gmail.com
 
