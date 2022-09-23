@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm working at Xendit as a software engineer
 
-📫 You can reach me on my email: irfansofyana0305@gmail.com
+📫 You can reach me on my email: irfan@sofyana.one || irfansofyana0305@gmail.com
 
 👯 Looking forward for collaboration on many projects!
 
