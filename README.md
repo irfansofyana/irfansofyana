@@ -12,6 +12,10 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=irfansofyana&show_icons=true&theme=nightowl&locale=en" alt="irfansofyana" /></p>
 
+
+![](https://leetcard.jacoblin.cool/LordDummy?border=0&radius=20&ext=activity)
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfansofyana)](https://github.com/irfansofyana/github-readme-stats) -->
 
 
