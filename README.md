@@ -23,7 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=irfansofyana&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## Grinding
+## 👨‍💻 Grinding
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LordDummy?theme=dark&font=Federo&ext=activity)
 
 ## ✍️ Random Dev Quote
