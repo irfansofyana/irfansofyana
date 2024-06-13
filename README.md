@@ -1,6 +1,6 @@
 # 💫 About Me
 😎 My name is Irfan Sofyana Putra. People often called me Irfan<br><br>
-🌱 Currently, I'm working at Xendit as a software engineer<br><br>
+🌱 Currently, I'm working as a software engineer<br><br>
 📫 You can reach me at my email: irfansofyana0305@gmail.com<br><br>
 👯 Looking forward to collaborations in many projects!
 
