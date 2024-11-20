@@ -1,8 +1,7 @@
 # 💫 About Me
 😎 My name is Irfan Sofyana Putra. People often called me Irfan<br><br>
-🌱 Currently, I'm working as a software engineer<br><br>
-📫 You can reach me at my email: irfansofyana0305@gmail.com<br><br>
-👯 Looking forward to collaborations in many projects!
+🌱 I'm a software engineer from Indonesia 🇮🇩 <br><br>
+📫 You can reach me at my email: mail@irfansp.dev <br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=irfansofyana&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -22,7 +21,7 @@
 ## 👨‍💻 Grinding
 ![LeetCode Stats](https://leetcard.jacoblin.cool/irfansofyana?theme=dark&font=Federo&ext=activity)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ## ✍️ Random Dev Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
