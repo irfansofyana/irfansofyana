@@ -18,8 +18,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfansofyana&theme=dark&hide_border=true)<br/>
 ![](https://github-profile-trophy.vercel.app/?username=irfansofyana&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 👨‍💻 Grinding
-![LeetCode Stats](https://leetcard.jacoblin.cool/irfansofyana?theme=dark&font=Federo&ext=activity)
+<!-- ## 👨‍💻 Grinding
+![LeetCode Stats](https://leetcard.jacoblin.cool/irfansofyana?theme=dark&font=Federo&ext=activity) -->
+
 
 <!-- ## ✍️ Random Dev Quote
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
